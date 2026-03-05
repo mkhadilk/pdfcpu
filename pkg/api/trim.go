@@ -21,9 +21,9 @@ import (
 	"os"
 	"sort"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/mkhadilk/pdfcpu/pkg/log"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/model"
 	"github.com/pkg/errors"
 )
 

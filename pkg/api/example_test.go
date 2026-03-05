@@ -17,8 +17,8 @@ limitations under the License.
 package api
 
 import (
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/model"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/types"
 )
 
 func ExampleValidateFile() {

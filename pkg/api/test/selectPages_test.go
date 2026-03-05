@@ -22,8 +22,8 @@ import (
 
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/mkhadilk/pdfcpu/pkg/api"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/types"
 )
 
 func testPageSelectionSyntaxOk(t *testing.T, s string) {

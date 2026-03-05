@@ -22,11 +22,11 @@ import (
 	"io"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/mkhadilk/pdfcpu/pkg/filter"
+	"github.com/mkhadilk/pdfcpu/pkg/log"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/font"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/model"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

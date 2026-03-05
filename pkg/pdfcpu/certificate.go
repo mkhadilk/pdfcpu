@@ -28,7 +28,7 @@ import (
 	"sync"
 
 	"github.com/hhrutter/pkcs7"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/model"
 	"github.com/pkg/errors"
 )
 

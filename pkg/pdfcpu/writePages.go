@@ -17,9 +17,9 @@ limitations under the License.
 package pdfcpu
 
 import (
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/mkhadilk/pdfcpu/pkg/log"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/model"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

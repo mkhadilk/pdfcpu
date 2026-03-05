@@ -19,9 +19,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/mkhadilk/pdfcpu/pkg/api"
+	"github.com/mkhadilk/pdfcpu/pkg/cli"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/types"
 )
 
 func TestListBoxesCommand(t *testing.T) {

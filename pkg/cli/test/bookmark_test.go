@@ -20,8 +20,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
+	"github.com/mkhadilk/pdfcpu/pkg/api"
+	"github.com/mkhadilk/pdfcpu/pkg/cli"
 )
 
 func TestListBookmarks(t *testing.T) {

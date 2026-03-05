@@ -31,13 +31,13 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/validate"
+	"github.com/mkhadilk/pdfcpu/pkg/api"
+	"github.com/mkhadilk/pdfcpu/pkg/cli"
+	"github.com/mkhadilk/pdfcpu/pkg/log"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/model"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/types"
+	"github.com/mkhadilk/pdfcpu/pkg/pdfcpu/validate"
 	"github.com/pkg/errors"
 )
 
